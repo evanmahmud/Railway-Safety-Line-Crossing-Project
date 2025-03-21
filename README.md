@@ -1,6 +1,4 @@
-# Railway-Safety-Line-Crossing-Project
-
-Enhancing Railway Safety with AI-Powered Real-Time Object Detection
+# Enhancing Railway Safety with AI-Powered Real-Time Object Detection
 
 Railway crossings are high-risk zones, demanding intelligent monitoring to prevent accidents. To address this challenge, I developed a real-time railway safety crossing detection system using YOLO12 (n, s, m), YOLO11 (n, s, m), and Roboflow 3.0 object detection models.
 
